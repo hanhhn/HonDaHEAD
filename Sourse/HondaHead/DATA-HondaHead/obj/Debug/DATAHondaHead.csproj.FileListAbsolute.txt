@@ -1,0 +1,8 @@
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\bin\Debug\DATA-HondaHead.dll.config
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\bin\Debug\DATA-HondaHead.dll
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\bin\Debug\DATA-HondaHead.pdb
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\obj\Debug\DATAHondaHead.Properties.Resources.resources
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\obj\Debug\DATAHondaHead.csproj.GenerateResource.Cache
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\obj\Debug\DATA-HondaHead.dll
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\obj\Debug\DATA-HondaHead.pdb
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\DATA-HondaHead\obj\Debug\DATAHondaHead.csprojResolveAssemblyReference.cache

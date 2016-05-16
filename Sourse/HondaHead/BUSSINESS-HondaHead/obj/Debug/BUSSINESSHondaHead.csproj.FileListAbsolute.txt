@@ -1,0 +1,8 @@
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\bin\Debug\BUSSINESS-HondaHead.dll.config
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\bin\Debug\BUSSINESS-HondaHead.dll
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\bin\Debug\BUSSINESS-HondaHead.pdb
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\bin\Debug\DATA-HondaHead.dll
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\bin\Debug\DATA-HondaHead.pdb
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\obj\Debug\BUSSINESSHondaHead.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\obj\Debug\BUSSINESS-HondaHead.dll
+C:\Users\Mr.Dark\Desktop\X\OOAD\Sourse\HondaHead\BUSSINESS-HondaHead\obj\Debug\BUSSINESS-HondaHead.pdb
